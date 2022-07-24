@@ -1,0 +1,11 @@
+.hig {
+    height: max-content !important;
+
+}
+
+@media screen and (max-width:575px) {
+    .img {
+        height: 500px;
+        object-fit: cover;
+    }
+}
